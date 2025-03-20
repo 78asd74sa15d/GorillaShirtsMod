@@ -33,6 +33,7 @@ If you run into any issues with the mod, please create an issue under the [Issue
 - **staircase** - Designer
 - **lunakitty** - Tester
 - **noodledx** - Assistive Tester
+- **arabik** - create this mod
 ### Special Thanks
 - **ojsauce** - Ideas
 - **ch7ken** - "Turtleneck" creation help
